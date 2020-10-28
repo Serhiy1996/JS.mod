@@ -6,6 +6,7 @@
 // console.log(sayHi);
 // alert(sayHi);
 // document.write(sayHi);
+
 // //   'owu',
 // let school = 'owu';
 // console.log(school);
@@ -94,11 +95,47 @@ alert(sayHi);
 document.write(sayHi);
 
 // 'owu',
+
+let school = 'owu';
+school = 'Okten Web UniversITy';
+console.log(school);
+alert(school);
+
 // 'com',
+let domain = 'com';
+domain = ' generic top-level domain';
+console.log(domain);
+document.write(domain);
+alert(domain);
+
 // 'ua',
+let codeUkrain = 'ua';
+codeUkrain = 'telephone code' +380;
+alert(codeUkrain);
+console.log(codeUkrain);
+document.write(codeUkrain);
+
 // 1,
+let number = 1;
+number = 50;
+console.log(number);
+document.write(number);
+alert(number);
+
 // 10,
+let ocWindows = 10;
+ocWindows = 'Microsoft Windows';
+console.log(ocWindows);
+document.write(ocWindows);
+alert(ocWindows);
+
 // -999,
+
+let musicslGroupe = -999;
+musicslGroupe = 999 - 'британская панк-группа первой волны';
+console.log(musicslGroupe);;
+document.write(musicslGroupe);
+alert(musicslGroupe);
 // 123,
 // 3.14,
 // 2.7,
