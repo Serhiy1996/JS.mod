@@ -82,3 +82,29 @@
 //
 //
 // Вывести каждую при помощи console.log , alert, document.write
+
+// - переопределить каждую переменную из задания 1 дав им произвольные значения
+
+// 'hello',
+
+let sayHi = 'hallo';
+sayHi = 'good morning';
+console.log(sayHi);
+alert(sayHi);
+document.write(sayHi);
+
+// 'owu',
+// 'com',
+// 'ua',
+// 1,
+// 10,
+// -999,
+// 123,
+// 3.14,
+// 2.7,
+// 16,
+// true,
+// false
+
+
+// Вывести каждую при помощи console.log , alert, document.write
