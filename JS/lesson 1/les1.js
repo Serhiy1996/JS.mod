@@ -65,9 +65,18 @@ document.write(numberWithRemainder);
 
 //   16,
 
-
+let integer = 16;
+console.log(integer);
+alert(integer);
+document.write(integer);
 
 //   true,
+
+let logicalOperator = true;
+console.log(logicalOperator);
+alert(logicalOperator);
+document.write(logicalOperator);
+
 //   false
 //
 //
